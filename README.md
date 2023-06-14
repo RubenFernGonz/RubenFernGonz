@@ -1,4 +1,9 @@
-### Hi there 👋
+¡Hola a todos! 🤟
+
+Me llamo Rubén Fernández González (@RubenFernGonz).
+
+Y aquí tengo mi repositorio oficial, donde subiré proyectos interesantes que vaya haciendo.
+Espero que os sea de ayuda.🤞😁
 
 <!--
 **RubenFernGonz/RubenFernGonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
