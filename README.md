@@ -1,13 +1,13 @@
-¡Hola a todos! 🤟 
+¡Hola a todos! 🤟  
 
-Me llamo Rubén Fernández González (@RubenFernGonz). 
+Me llamo Rubén Fernández González (@RubenFernGonz).  
 
-  • 💻Estudio Desarrollo de Aplicaciones Multiplataforma. 
-  • 🎵Músico especializado en percusión. 
-  • 🧗Apasionado de la escalada y los deportes de montaña. 
+  • 💻Estudio Desarrollo de Aplicaciones Multiplataforma.  
+  • 🎵Músico especializado en percusión.  
+  • 🧗Apasionado de la escalada y los deportes de montaña.  
 
-Y aquí tengo mi repositorio oficial, donde subiré proyectos interesantes que vaya haciendo. 
-Espero que os sea de ayuda.🤞😁. 
+Y aquí tengo mi repositorio oficial, donde subiré proyectos interesantes que vaya haciendo.  
+Espero que os sea de ayuda.🤞😁.  
 
 
 
