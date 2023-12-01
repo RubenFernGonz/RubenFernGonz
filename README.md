@@ -1,17 +1,17 @@
 <div class=align-center> 
 
-## ¡Hola a todos! 🤟  
+## Hello, everyone!  🤟  
 
-Me llamo Rubén Fernández González (@RubenFernGonz).  
+My name is Rubén (@RubenFernGonz).  
 
-  • 💻Estudio Desarrollo de Aplicaciones Multiplataforma.  
-  • 🎵Músico especializado en percusión.  
-  • 🧗Apasionado de la escalada y los deportes de montaña.  
+  • 💻I study Multiplatform Application Development.  
+  • 🎵I'm a musician specializing in percussion.  
+  • 🧗Passionate about climbing and mountain sports.  
 
-Y aquí tengo mi repositorio oficial, donde subiré proyectos interesantes que vaya haciendo.  
-Espero que os sea de ayuda.🤞😁.  
+And here is my official repository, where I will upload interesting projects that I work on.
+I hope it is helpful for you.🤞😁.  
 
-## Contacto   
+## Contact   
 rubenfergon2001@gmail.com
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RubenFernGonz&theme=dark&border_radius=4.6&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
