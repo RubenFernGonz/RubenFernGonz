@@ -13,9 +13,9 @@ I hope it is helpful for you.🤞😁.
 
 ## Contact   
 rubenfergon2001@gmail.com
-<!--
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RubenFernGonz&theme=dark&border_radius=4.6&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
--->
+
 </div>
 
 <!--
