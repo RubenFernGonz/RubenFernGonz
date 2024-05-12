@@ -14,12 +14,28 @@ I hope they are helpful for you. 🤞😁
 ## Technologies
 | Technology | Icon |
 |------------|------|
-| Java       |   ![Java](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons/Logo-Java.png) |
-| Spring Boot|   ![Spring Boot](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons/icono%20Spring.png) |
-| Angular    |   ![Angular](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons/icono%20Angular.png) |
-| PostgreSQL | ![PostgreSQL](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons/Logo%20PostgreSQL.png) |
-| Unity      |   ![Unity](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons/Logo%20Unity%201.png) |
-| Git        |   ![Git](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons/Logo%20Git%201.png) |
+| Java       |   ![Java](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons/Logo-Java.png) |<div align="center"> 
+
+## Hello, everyone! 🤟
+
+My name is Rubén (@RubenFernGonz).
+
+<p>💻 I'm a software developer.</p>
+<p>🎵 I'm a musician specializing in percussion.</p>
+<p>🧗 Passionate about climbing and mountain sports.</p>
+
+And here is my official repository, where I will upload interesting projects that I work on.
+I hope they are helpful for you. 🤞😁
+
+## Technologies
+| Technology | Icon |
+|------------|------|
+| Java       | ![Java](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons2/Logo-Java.png) |
+| Spring Boot| ![Spring Boot](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons2/Spring.png) |
+| Angular    | ![Angular](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons2/icono%20Angular.png) |
+| PostgreSQL | ![PostgreSQL](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons2/PostgreSQL-Logo.wine.png) |
+| Unity      | ![Unity](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons2/pngwing.com%20(4).png) |
+| Git        | ![Git](https://github.com/RubenFernGonz/Portfolio_Site/blob/master/assets/img/Icons2/Logo%20Git%201.png) |
 
 ## Contact
 <a href="https://www.linkedin.com/in/ruben-fdez-gonzalez/">
