@@ -14,7 +14,7 @@ I hope they are helpful for you. 🤞😁
 ## Technologies
 | Technology | Icon |
 |------------|------|
-| Java       | ![Java](https://github.com/RubenFernGonz/Assets/Icons2/Logo-Java.png) |
+| Java       | ![Java](https://github.com/RubenFernGonz/Assets/blob/Icons2/Logo-Java.png) |
 | Spring Boot| ![Spring Boot](https://github.com/RubenFernGonz/Assets/Icons2/Spring.png) |
 | Angular    | ![Angular](https://github.com/RubenFernGonz/Assets/Icons2/icono%20Angular.png) |
 | PostgreSQL | ![PostgreSQL](https://github.com/RubenFernGonz/Assets/Icons2/PostgreSQL-Logo.wine.png) |
