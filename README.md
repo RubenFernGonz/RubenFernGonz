@@ -29,6 +29,6 @@ I hope they are helpful for you. 🤞😁
     <img src="https://github.com/RubenFernGonz/Assets/blob/main/Icons2/Icono%20Correo.png" width="40" alt="Email Badge">
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RubenFernGonz&theme=dark&border_radius=4.6&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RubenFernGonz&theme=dark&border_radius=4.6&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)-->
 
 </div>
