@@ -4,9 +4,9 @@
 
 My name is Rubén (@RubenFernGonz).
 
-<p>💻 I'm a software developer.</p>
-<p>🎵 I'm a musician specializing in percussion.</p>
-<p>🧗 Passionate about climbing and mountain sports.</p>
+<p>💻 Back-end developer who enjoys solving problems and building microservices with Spring Boot.</p>
+<p>🎵 I enjoy music, sports, and learning new tech skills.</p>
+<p>🧗 Always eager to grow and improve! 🚀.</p>
 
 And here is my official repository, where I will upload interesting projects that I work on.
 I hope they are helpful for you. 🤞😁
