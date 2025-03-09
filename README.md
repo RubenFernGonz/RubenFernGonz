@@ -12,14 +12,23 @@ And here is my official repository, where I will upload interesting projects tha
 I hope they are helpful for you. 🤞😁
 
 ## Technologies
-| Technology | Icon |
-|------------|------|
-| Java       | ![Java](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/Logo-Java.png) |
-| Spring Boot| ![Spring Boot](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/Spring.png) |
-| Angular    | ![Angular](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/icono%20Angular.png) |
-| PostgreSQL | ![PostgreSQL](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/PostgreSQL-Logo.wine.png) |
-| Unity      | ![Unity](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/pngwing.com%20(4).png) |
-| Git        | ![Git](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/Logo%20Git%201.png) |
+| Technology             | Icon |
+|------------------------|------|
+| Java                   | ![Java](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/Logo-Java.png) |
+| Spring Boot            | ![Spring Boot](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/Spring.png) |
+| Angular                | ![Angular](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/icono%20Angular.png) |
+| PostgreSQL             | ![PostgreSQL](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/PostgreSQL-Logo.wine.png) |
+| Unity                  | ![Unity](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/pngwing.com%20(4).png) |
+| Git                    | ![Git](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/Logo%20Git%201.png) |
+| Google Cloud           | ![Google Cloud](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/google-cloud-logo.png) |
+| Terraform              | ![Terraform](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/terraform-logo.png) |
+| SonarQube              | ![SonarQube](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/sonarqube-logo.png) |
+| Hibernate              | ![Hibernate](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/hibernate-logo.png) |
+| Docker                 | ![Docker](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/docker-logo.png) |
+| Liquibase              | ![Liquibase](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/liquibase-logo.png) |
+| Kafka                  | ![Kafka](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/kafka-logo.png) |
+| Jenkins                | ![Jenkins](https://github.com/RubenFernGonz/Assets/blob/main/Icons2/jenkins-logo.png) |
+
 
 ## Contact
 <a href="https://www.linkedin.com/in/ruben-fdez-gonzalez/">
