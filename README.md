@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Rubén
 
-Cloud Engineer with a backend development background, focused on designing, automating and deploying scalable cloud infrastructure.
+Cloud Engineer at GFT Technologies with a backend development background, focused on designing, automating and deploying scalable cloud infrastructure.
 
-I build cloud-native solutions using AWS, Google Cloud, Terraform, Kubernetes and Java/Spring Boot, with a strong focus on Infrastructure as Code, automation and DevOps practices.
+I've contributed to cloud infrastructure projects for clients including Deutsche Bank and the Oceanogràfic de València, working with AWS, Google Cloud, Terraform, Kubernetes and modern DevOps practices.
 
-Currently open to Cloud Engineer and DevOps Engineer opportunities.
+My experience includes cloud architecture, Infrastructure as Code, Kubernetes, CI/CD, observability, cloud security (SecOps), cost optimization (FinOps) and performance engineering.
 
 ---
 
