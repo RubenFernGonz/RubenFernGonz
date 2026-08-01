@@ -53,16 +53,18 @@ Reusable Terraform modules for provisioning scalable and maintainable AWS infras
 
 ---
 
-## 🏆 Certifications
+## 🏆 Cloud certifications
 
-* ✅ HashiCorp Certified: Terraform Associate
 * ✅ Google Cloud Generative AI Leader
-* ✅ Certified Kubernetes Administrator (CKA)
 
+<!--
 Currently preparing:
 
 * AWS Certified Solutions Architect – Associate
 * Google Associate Cloud Engineer
+* HashiCorp Certified: Terraform Associate
+* Certified Kubernetes Administrator (CKA)
+-->
 
 ---
 
