@@ -68,5 +68,6 @@ Currently preparing:
 
 ## Contact
 
-* **LinkedIn:** [linkedin.com/in/ruben-fdez-gonzalez](https://www.linkedin.com/in/ruben-fdez-gonzalez/)
-* **Email:** [rubenfergon2001@gmail.com](mailto:rubenfergon2001@gmail.com)
+**LinkedIn:** [linkedin.com/in/ruben-fdez-gonzalez](https://www.linkedin.com/in/ruben-fdez-gonzalez/)
+
+**Email:** `rubenfergon2001@gmail.com`
