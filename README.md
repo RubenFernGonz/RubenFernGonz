@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Rubén
 
-**Cloud Engineer** with a backend development background, focused on designing, automating and deploying scalable cloud infrastructure.
+Cloud Engineer with a backend development background, focused on designing, automating and deploying scalable cloud infrastructure.
 
-I enjoy building cloud-native solutions using **AWS**, **Google Cloud**, **Terraform**, **Kubernetes** and **Java/Spring Boot**, with a strong focus on Infrastructure as Code, automation and DevOps practices.
+I build cloud-native solutions using AWS, Google Cloud, Terraform, Kubernetes and Java/Spring Boot, with a strong focus on Infrastructure as Code, automation and DevOps practices.
 
-I'm currently looking for remote **Cloud Engineer** / **DevOps Engineer** opportunities where I can help build reliable and scalable systems.
+Currently open to Cloud Engineer and DevOps Engineer opportunities.
 
 ---
 
@@ -16,41 +16,40 @@ I'm currently looking for remote **Cloud Engineer** / **DevOps Engineer** opport
 
 ---
 
-## 📌 About this GitHub
+## About this GitHub
 
-This GitHub showcases hands-on projects focused on cloud engineering, infrastructure automation and backend development.
+This GitHub contains projects related to cloud engineering, infrastructure automation and backend development.
 
-Most repositories focus on real-world scenarios such as:
+Main topics include:
 
 * Infrastructure as Code with Terraform
 * Cloud infrastructure on AWS & GCP
-* Kubernetes deployments
+* Kubernetes
 * CI/CD pipelines
-* Cloud-native applications
-* Java & Spring Boot services
-* Cloud architecture examples
+* Java & Spring Boot
+* Cloud architecture
 
-The goal is to build production-oriented solutions while continuously improving engineering best practices.
+The repositories are built to explore real-world architectures, automation and engineering best practices.
 
 ---
 
 ## ⭐ Featured Projects
 
-### ☁️ GCP Infrastructure with Terraform
+- **GCP Infrastructure with Terraform**
 
 Production-style infrastructure on Google Cloud using Terraform, including networking, IAM, compute resources and reusable Infrastructure as Code modules.
 
-### 🚀 Full Stack Cloud Application
+- **Full Stack Cloud Application**
 
-Cloud-native application built with **Spring Boot** (backend) and **React** (frontend), designed to run on modern cloud infrastructure.
+Cloud-native application built with Spring Boot and React.
 
-### ⚙️ GitHub Actions CI/CD
+- **GitHub Actions CI/CD**
 
-Automated CI/CD pipelines for building, testing and deploying applications using GitHub Actions, following DevOps best practices.
+Automated CI/CD pipelines for building, testing and deploying applications.
 
-### 🏗️ AWS Infrastructure with Terraform
+- **AWS Infrastructure with Terraform**
 
-Reusable Terraform modules for provisioning scalable and maintainable AWS infrastructure following Infrastructure as Code principles.
+Reusable Terraform modules for provisioning scalable and maintainable AWS infrastructure.
 
 ---
 
@@ -60,14 +59,14 @@ Reusable Terraform modules for provisioning scalable and maintainable AWS infras
 * ✅ Google Cloud Generative AI Leader
 * ✅ Certified Kubernetes Administrator (CKA)
 
-**Currently preparing**
+Currently preparing:
 
 * AWS Certified Solutions Architect – Associate
 * Google Associate Cloud Engineer
 
 ---
 
-## 📫 Connect with me
+## Contact
 
-* LinkedIn
-* Email
+* **LinkedIn:** [linkedin.com/in/ruben-fdez-gonzalez](https://www.linkedin.com/in/ruben-fdez-gonzalez/)
+* **Email:** [rubenfergon2001@gmail.com](mailto:rubenfergon2001@gmail.com)
