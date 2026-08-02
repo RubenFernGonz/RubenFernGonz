@@ -11,7 +11,7 @@ My experience includes cloud architecture, Infrastructure as Code, Kubernetes, C
 ## 🛠️ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,kubernetes,docker,java,spring,git,githubactions,linux,react" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,kubernetes,docker,java,spring,react" />
 </p>
 
 ---
